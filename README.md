@@ -55,8 +55,7 @@ A análise deve gerar insights que apoiem ações estratégicas de monitoramento
 - **Python**
 - **Pandas** → Manipulação e agrupamento de dados  
 - **Seaborn** → Geração de heatmap e gráficos  
-- **Matplotlib** → Visualizações  
-- **Jupyter / Script .py** → Execução do código
+- **Matplotlib** → Visualizações
 
  por bioma:
 | Bioma           | Área total (ha) |
